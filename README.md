@@ -17,4 +17,4 @@ Script de Auto M1 para Seven Sins BTTG com interface otimizada para mobile.
 
 ### Opção 1: Loadstring (Recomendado)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU-USUARIO/auto-m1/main/loadstring.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kajivh/auto-m1/main/loadstring.lua"))()
